@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/taniarascia/sandbox/master/ghibli/logo.png)
+![logo](https://images.squarespace-cdn.com/content/5bfd3def55b02c605fec0be2/1543862265582-14130NS85IEW56URKJOQ/Studio+Ghibli+Banner.png?format=2500w&content-type=image%2Fpng)
 
 ## GHIBLI APP
 
